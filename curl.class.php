@@ -1,6 +1,8 @@
 <?php
 /*
  * Set your tab length to 2 spaces for this file to look correct.
+ * 
+ * @author Joar Wandborg
  */
 class curl {
 	protected $_cookie_jar_path = 'curl-cookie-jar.txt';
