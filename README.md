@@ -1,4 +1,8 @@
-PHP cURL class
-==============
+# PHP cURL class
 
-*Author: jwandborg <http://wandborg.com>*
+cURL wrapper for PHP.
+
+
+
+
+ *– jwandborg <http://wandborg.se>*
